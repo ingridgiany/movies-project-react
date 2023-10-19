@@ -1,7 +1,7 @@
-# movies project react
+# Movies Project
 
-I created a project that displays the main films currently shown consuming an
-external API in for my ReactJS Course.
+Project that displays the main films currently shown consuming an
+external API.
 
-Visit the link to view → https://projeto-filme-reactjs.netlify.app/
+
  
